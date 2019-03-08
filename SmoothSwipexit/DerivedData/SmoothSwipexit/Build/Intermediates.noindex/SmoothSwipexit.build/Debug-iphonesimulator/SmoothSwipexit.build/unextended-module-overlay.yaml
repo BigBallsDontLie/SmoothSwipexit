@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/DerivedData/SmoothSwipexit/Build/Products/Debug-iphonesimulator/SmoothSwipexit.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/DerivedData/SmoothSwipexit/Build/Intermediates.noindex/SmoothSwipexit.build/Debug-iphonesimulator/SmoothSwipexit.build/unextended-module.modulemap',
+    }]
+  }]
+}

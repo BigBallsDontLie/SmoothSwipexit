@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/DerivedData/SmoothSwipexit/Build/Products/Debug-iphonesimulator/SmoothSwipexit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SmoothSwipexit-Swift.h",
+          'external-contents': "/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/DerivedData/SmoothSwipexit/Build/Products/Debug-iphonesimulator/SmoothSwipexit.framework/Headers/SmoothSwipexit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SmoothSwipexit.h",
+          'external-contents': "/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/SmoothSwipexit/SmoothSwipexit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/DerivedData/SmoothSwipexit/Build/Products/Debug-iphonesimulator/SmoothSwipexit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/DerivedData/SmoothSwipexit/Build/Intermediates.noindex/SmoothSwipexit.build/Debug-iphonesimulator/SmoothSwipexit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

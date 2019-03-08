@@ -1,0 +1,10 @@
+framework module SmoothSwipexit {
+  umbrella header "SmoothSwipexit.h"
+
+  export *
+  module * { export * }
+}
+
+module SmoothSwipexit.__Swift {
+    exclude header "SmoothSwipexit-Swift.h"
+}

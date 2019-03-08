@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "47e753fbb599dd61d4f94f0f22f625f3"
+build_time: [1552056831, 846951000]
+inputs:
+  "/Users/johah/dev/repos/SmoothSwipexit/SmoothSwipexit/SmoothSwipexit/Service.swift": [1552050357, 0]

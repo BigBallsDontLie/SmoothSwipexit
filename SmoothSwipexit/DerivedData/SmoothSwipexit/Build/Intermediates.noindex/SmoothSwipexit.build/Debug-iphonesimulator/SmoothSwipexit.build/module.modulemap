@@ -1,0 +1,11 @@
+framework module SmoothSwipexit {
+  umbrella header "SmoothSwipexit.h"
+
+  export *
+  module * { export * }
+}
+
+module SmoothSwipexit.Swift {
+    header "SmoothSwipexit-Swift.h"
+    requires objc
+}
